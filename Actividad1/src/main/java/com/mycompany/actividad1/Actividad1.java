@@ -8,7 +8,8 @@ public class Actividad1 {
      // JOptionPane.showMessageDialog(null, "Hola mundo");
         String name = JOptionPane.showInputDialog("What's your name?");
         System.out.println(name);
-        
-        int WARNING_MESSAGE = JOptionPane.WARNING_MESSAGE;
+        //Castear informacion
+        double n = Double.parseDouble(name); 
+        int nn = Integer.parseInt(name);
     }
 }
