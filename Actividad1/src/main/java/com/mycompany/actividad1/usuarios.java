@@ -14,6 +14,7 @@ public class usuarios {
         {"Juan", "123"},
         {"Pepe", "123"}
     };
+    private String aUsuarios[] = new String[5];
     public usuarios(){
         
     }
@@ -23,5 +24,11 @@ public class usuarios {
                 System.out.println(usuarios2[i][j]);
             }
         }
+    }
+    public void setAUsuarios(String nombre, int pos){
+        this.aUsuarios[pos] = nombre;
+    }
+    public String getAUsuario(int pos){
+        return this.aUsuarios[pos];
     }
 }
