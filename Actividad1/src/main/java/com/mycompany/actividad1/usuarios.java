@@ -1,0 +1,27 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.actividad1;
+
+/**
+ *
+ * @author super
+ */
+public class usuarios {
+    String usuarios [][] = new String[3][2];
+    String usuarios2 [][] = {
+        {"Juan", "123"},
+        {"Pepe", "123"}
+    };
+    public usuarios(){
+        
+    }
+    void imprimeirUsuarios(){
+        for (int i = 0; i < usuarios2.length; i++) {
+            for (int j = 0; j < usuarios2.length; j++) {
+                System.out.println(usuarios2[i][j]);
+            }
+        }
+    }
+}
