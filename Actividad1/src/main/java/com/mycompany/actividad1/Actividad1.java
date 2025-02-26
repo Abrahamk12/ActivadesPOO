@@ -7,7 +7,7 @@ public class Actividad1 {
         //menu.setVisible(true);
         //usuarios us = new usuarios();
         //us.imprimeirUsuarios();
-        AgregarUsuarios ag = new AgregarUsuarios();
-        ag.setVisible(true);
+        //AgregarUsuarios ag = new AgregarUsuarios();
+        //ag.setVisible(true);
     }
 }
