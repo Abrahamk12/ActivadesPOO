@@ -9,5 +9,10 @@ public class Actividad1 {
         //us.imprimeirUsuarios();
         //AgregarUsuarios ag = new AgregarUsuarios();
         //ag.setVisible(true);
+        gato gato = new gato();
+        gato.arrancar();
+        gato.rota(15);
+        perro perro = new perro();
+        perro.maullar();
     }
 }
