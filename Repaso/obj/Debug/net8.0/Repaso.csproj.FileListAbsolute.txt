@@ -1,0 +1,15 @@
+D:\super\Documents\Github\ActivadesPOO\Repaso\bin\Debug\net8.0\Repaso.exe
+D:\super\Documents\Github\ActivadesPOO\Repaso\bin\Debug\net8.0\Repaso.deps.json
+D:\super\Documents\Github\ActivadesPOO\Repaso\bin\Debug\net8.0\Repaso.runtimeconfig.json
+D:\super\Documents\Github\ActivadesPOO\Repaso\bin\Debug\net8.0\Repaso.dll
+D:\super\Documents\Github\ActivadesPOO\Repaso\bin\Debug\net8.0\Repaso.pdb
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.AssemblyInfoInputs.cache
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.AssemblyInfo.cs
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.csproj.CoreCompileInputs.cache
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.sourcelink.json
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.dll
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\refint\Repaso.dll
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.pdb
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\Repaso.genruntimeconfig.cache
+D:\super\Documents\Github\ActivadesPOO\Repaso\obj\Debug\net8.0\ref\Repaso.dll
