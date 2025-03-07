@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|d:\\super\\documents\\github\\activadespoo\\repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|d:\\super\\documents\\github\\activadespoo\\repaso\\coche2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|solutionrelative:coche2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|d:\\super\\documents\\github\\activadespoo\\repaso\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|solutionrelative:ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|d:\\super\\documents\\github\\activadespoo\\repaso\\iavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F29852-FC40-4081-A201-9A3452B7ACC1}|Repaso.csproj|solutionrelative:iavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +36,49 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwG4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T02:23:26.563Z",
+              "WhenOpened": "2025-03-06T14:14:45.473Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "IVehiculo.cs",
+              "ToolTip": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\IVehiculo.cs",
+              "RelativeToolTip": "IVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:49:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coche2.cs",
+              "DocumentMoniker": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\Coche2.cs",
+              "RelativeDocumentMoniker": "Coche2.cs",
+              "ToolTip": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\Coche2.cs",
+              "RelativeToolTip": "Coche2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:28:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAvion.cs",
+              "DocumentMoniker": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\IAvion.cs",
+              "RelativeDocumentMoniker": "IAvion.cs",
+              "ToolTip": "D:\\super\\Documents\\Github\\ActivadesPOO\\Repaso\\IAvion.cs",
+              "RelativeToolTip": "IAvion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:45:43.064Z",
               "EditorCaption": ""
             }
           ]

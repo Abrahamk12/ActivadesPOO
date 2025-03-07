@@ -8,20 +8,19 @@ namespace Repaso
 {
     class Coche2 : IVehiculo
     {
-        public int VelocidadMaxima { get; private set; } = 200;
-
-        public void Arrancar()
+        public Coche2()
         {
-            Console.WriteLine("El coche está arrancando.");
         }
 
-        public void Frenar()
+        int IVehiculo.VelocidadMaxima { get; }
+
+        void IVehiculo.Arrancar()
         {
-            Console.WriteLine("El coche está frenando.");
+            Console.WriteLine("El coche arrancó");
         }
-        public void setVelocidadMaxima(int velocidad)
+
+        void IVehiculo.Frenar()
         {
-            this.VelocidadMaxima = velocidad;
         }
     }
 }
