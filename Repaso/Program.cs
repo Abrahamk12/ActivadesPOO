@@ -27,7 +27,6 @@ class Program
         var texto2 = "Hola mundo"; // Tipo inferido como string
         var decimal2 = 3.14;       // Tipo inferido como double
         */
-        /*
         int num1 =1, num2 = 1;
         if (num1 != 0 && num2 != 2)
         {
@@ -37,7 +36,7 @@ class Program
         {
             Console.WriteLine("Ambos números son diferentes de cero y dos.");
         }
-        */
+        
         /*
         //Casteo
         int entero1 = 42;
@@ -121,8 +120,8 @@ class Program
         //Coche2 miCoche = new Coche2();
         //miCoche.Arrancar();
         //miCoche.setVelocidadMaxima(300);
-        IVehiculo coche = new Coche2();
-        coche.Arrancar();
+        //IVehiculo coche = new Coche2();
+        //coche.Arrancar();
     }
 }
 
