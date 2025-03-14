@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Repaso;
+namespace Repaso;
 using System;
-using System.Net.Sockets;
 /*
 *   Tipo estático: Una vez declarado, el tipo de la variable no puede cambiar. 
 *   Por ejemplo, una variable de tipo int no puede asignarse a un valor string.
