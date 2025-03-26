@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj": {}
+    "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj": {
+    "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj",
+        "projectUniqueName": "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj",
         "projectName": "Repaso",
-        "projectPath": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj",
-        "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\ActivadesPOO\\Repaso\\obj\\",
+        "projectPath": "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Repaso\\Repaso.csproj",
+        "packagesPath": "C:\\Users\\abraham\\.nuget\\packages\\",
+        "outputPath": "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Repaso\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\abraham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
