@@ -1,0 +1,61 @@
+ Obtener el texto ingresado en el TextBox
+    string textoIngresado = textBox1.Text;
+     Mostrar el texto en otro TextBox o en un Label
+    textBox2.Text = textoIngresado; 
+    lblResultado.Text = Texto recibido  + textoIngresado;
+
+// Obtener el elemento seleccionado del ComboBox
+string valorSeleccionado = comboBox1.SelectedItem.ToString();
+// Usar el valor como desees
+Console.WriteLine("El elemento seleccionado es: " + valorSeleccionado);
+
+// Asignar un valor seleccionándolo en el ComboBox
+comboBox1.SelectedItem = "Valor que deseas seleccionar";
+
+
+// Añadir elementos al ComboBox
+comboBox1.Items.Add("Opción 1");
+comboBox1.Items.Add("Opción 2");
+comboBox1.Items.Add("Opción 3");
+
+private void btnMostrarSeleccion_Click(object sender, EventArgs e)
+{
+    // Obtener el valor seleccionado
+    string seleccion = comboBox1.SelectedItem?.ToString() ?? "Nada seleccionado";
+    lblResultado.Text = "Seleccionaste: " + seleccion;
+}
+
+private void btnAsignarValor_Click(object sender, EventArgs e)
+{
+    // Asignar un valor al ComboBox
+    comboBox1.SelectedItem = "Opción 2"; // Debe existir en la lista de elementos
+}
+
+private void Form1_Load(object sender, EventArgs e)
+{
+    // Rellenar el ComboBox al cargar el formulario
+    comboBox1.Items.Add("Opción 1");
+    comboBox1.Items.Add("Opción 2");
+    comboBox1.Items.Add("Opción 3");
+}
+
+
+MessageBox.Show("Este es el mensaje.", "Título del cuadro de diálogo");
+
+private void btnMostrarDialogo_Click(object sender, EventArgs e)
+{
+    DialogResult resultado = MessageBox.Show("¿Estás seguro de que quieres realizar esta acción?", "Confirmación", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+
+    if (resultado == DialogResult.Yes)
+    {
+        MessageBox.Show("Acción realizada.", "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Information);
+    }
+    else if (resultado == DialogResult.No)
+    {
+        MessageBox.Show("Acción cancelada.", "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else
+    {
+        MessageBox.Show("Acción abortada.", "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+    }
+}
