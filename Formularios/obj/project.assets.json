@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\abraham\\Documents\\GitHub\\POO-IN\\Formularios\\Formularios.csproj",
+      "projectUniqueName": "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Formularios\\Formularios.csproj",
       "projectName": "Formularios",
-      "projectPath": "D:\\abraham\\Documents\\GitHub\\POO-IN\\Formularios\\Formularios.csproj",
+      "projectPath": "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Formularios\\Formularios.csproj",
       "packagesPath": "C:\\Users\\abraham\\.nuget\\packages\\",
-      "outputPath": "D:\\abraham\\Documents\\GitHub\\POO-IN\\Formularios\\obj\\",
+      "outputPath": "D:\\abraham\\Documents\\GitHub\\ActivadesPOO\\Formularios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
